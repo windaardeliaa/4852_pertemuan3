@@ -1,0 +1,15 @@
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\bin\Debug\net7.0\4852tugas3.exe
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\bin\Debug\net7.0\4852tugas3.deps.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\bin\Debug\net7.0\4852tugas3.runtimeconfig.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\bin\Debug\net7.0\4852tugas3.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\bin\Debug\net7.0\4852tugas3.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\obj\Debug\net7.0\4852tugas3.csproj.AssemblyReference.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\obj\Debug\net7.0\4852tugas3.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\obj\Debug\net7.0\4852tugas3.AssemblyInfoInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\obj\Debug\net7.0\4852tugas3.AssemblyInfo.cs
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\obj\Debug\net7.0\4852tugas3.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\obj\Debug\net7.0\4852tugas3.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\obj\Debug\net7.0\refint\4852tugas3.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\obj\Debug\net7.0\4852tugas3.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\obj\Debug\net7.0\4852tugas3.genruntimeconfig.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852tugas3\4852tugas3\obj\Debug\net7.0\ref\4852tugas3.dll
